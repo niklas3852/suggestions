@@ -22,6 +22,6 @@ fs.readdir("./events/", async (err, files) => {
 	});
 
 	bot.login(bot.config.token).catch(e => {
-		console.error(`ERROR - DM ItsADerpyTurtle#0001 on Discord with this:`, e);
+		console.error(`ERROR - DM Niklas#4871 on Discord with this:`, e);
 	});
 });
