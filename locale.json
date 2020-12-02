@@ -1,0 +1,25 @@
+{
+	"start": {
+		"command": "start",
+		"text": "Please type `PRFSTART_CMD` to tell me a fairytale."
+	},
+	"story": {
+		"title": "Please tell me the title of your story.",
+		"text": "Please tell me your story.",
+		"submitted": "Thank you for submitting your story. Our team are looking over it now.",
+		"accepted": "Hey! Your story has been accepted!",
+		"denied": "Sorry, but your story has been declined."
+	},
+	"embed": {
+		"storyBy": "Story by",
+		"title": "Title",
+		"story": "Story",
+		"submittedAt": "Submission date",
+		"publicTitle": "Heyho friends, here is a new story by AUTHOR called 'TITLE'"
+	},
+	"presence": "fairytales",
+	"tryAgainLater": "Sorry, but I couldn't find the channel to send the story to. Please try again later.",
+	"publicNotFound": "Sorry but I couldn't find the public story channel.",
+	"error": "An error has occurred!",
+	"connected": "Connected to"
+}
