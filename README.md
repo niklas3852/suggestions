@@ -12,13 +12,17 @@ Ok nice, but how do I start that thing?
 Firstibale fill out the config.json. Everything should be relatively easy to understand
 
 Just copy the path where you safed it. (If the file is a .zip file, you have to unzip it first)
+
 open your cmd and typie in there:
   cd <your path>
+
 after you navigated to it, type in:
   npm i
+
 that message should appear:
-   audited 8 packages in 0.758s
+   audited x packages in 0.758s
    found 0 vulnerabilities
+
 in the end just type in:
   node .
   
