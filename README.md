@@ -5,7 +5,7 @@
 
 ## Welcome!
 AdventsMärchenland is a public submission and announcement Discord-Bot, built in node.js for users to submit stories via DMs to the bot.  🧚
-After a review through your staff team, the bot will publish your content in a pre-defined channel.
+After a review through your staff team, the bot will publish the user subbmissions in a channel for all your members :)
 
 I originally coded this bot for Marmeladenoma as a winter special in 2020 (https://discord.gg/marmeladenoma) but feel free to use it for your own projects as well! :D
 
