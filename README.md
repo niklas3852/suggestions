@@ -1,6 +1,6 @@
 # AdventsMärchenland-Bot
 
-![](https://www.shutterstock.com/image-vector/cute-penguin-clipart-vector-file-600nw-2522211451.jpg)
+![](https://t4.ftcdn.net/jpg/01/83/13/25/360_F_183132550_mmcxLs0XAdzD1Ocv6yMsnV9b7D85ujiX.jpg)
 
 
 ## Welcome!
