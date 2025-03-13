@@ -18,8 +18,8 @@ I originally coded this bot for Marmeladenoma as a winter special in 2020 (https
 - Copy the path where you saved your project in. (If the file is a .zip file, you have to unzip it first)
 - Open your favourite terminal and navigate to your project folder:
   **cd {your project-folder-path}**
-- You should now be in your project folder. If that´s been successfull you can install all required node dependencies:
+- You should now be in your project folder. If that´s been successfull, you can install all required node dependencies using
   **npm i**
-- Now you can start up your bot using **node.**
+- Now you can start up your bot with **node.**
 
 Have fun and stay healthy! 🤩
