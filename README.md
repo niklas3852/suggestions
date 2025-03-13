@@ -1,6 +1,6 @@
 # AdventsMärchenland-Bot
 
-![](https://t4.ftcdn.net/jpg/01/83/13/25/360_F_183132550_mmcxLs0XAdzD1Ocv6yMsnV9b7D85ujiX.jpg)
+![](https://t4.ftcdn.net/jpg/05/24/99/33/360_F_524993392_tR3RoTlHTdPYcFJgTydzFdHPjzrW8Gev.jpg)
 
 
 ## Welcome!
