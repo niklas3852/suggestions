@@ -1,9 +1,8 @@
 # Farytale-Bot
-Little farytale bot
-NodeJS Discord bot for users to submit stories via DMs. I originally created it for Marmeladenoma as a winter special (https://discord.gg/marmeladenoma).
-But feel free to use it for your own projects as well :D
+Hello everyone, I made a public farytale Discord-Bot in node.js for users to submit stories via DMs. 
+I originally created it for Marmeladenoma as a winter special (https://discord.gg/marmeladenoma) but feel free to use it for your own projects as well! :D
 
-If you have any questions feel free to contact me via discord: Niklas#4871
+If you have any questions feel free to contact me via discord: *Niklas#4871*
 
 In the config.json file you can change all parameters you need.
 The message.js file is mainly for the messages and sumissions, here you can change the custom replies from the bot.
