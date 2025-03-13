@@ -1,5 +1,6 @@
 # Farytale-Bot
-This is a public fairytale Discord-Bot, built in node.js for users to submit stories via DMs to the but. After a review through your staff team, the bot will publish your content in a pre-defined channel.
+This is a public fairytale Discord-Bot, built in node.js for users to submit stories via DMs to the bot. 
+After a review through your staff team, the bot will publish your content in a pre-defined channel.
 I originally created it for Marmeladenoma as a winter special (https://discord.gg/marmeladenoma) but feel free to use it for your own projects as well! :D
 
 If you have any questions feel free to contact me via discord: *Niklas#4871*
