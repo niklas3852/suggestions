@@ -11,6 +11,7 @@ I originally coded this bot for Marmeladenoma as a winter special in 2020 (https
 
 
 ## Starting up
+> I have used "Webstorm" and "VisualStudioCode" throughout the project but feel free to use any IDE you want:D
 - Download the folder from my github repo or clone it with **git clone**
 - In the *config.json* file you can change all parameters you need.
 - The *message.js* file is mainly for the messages and sumissions, here you can change the custom replies from the bot.
