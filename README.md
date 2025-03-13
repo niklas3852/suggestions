@@ -1,6 +1,6 @@
 # AdventsMärchenland-Bot
 
-![](https://png.pngtree.com/png-clipart/20231028/original/pngtree-cute-doodle-penguin-for-merry-christmas-illustration-set-png-image_13447186.png)
+![](https://www.shutterstock.com/image-vector/cute-penguin-clipart-vector-file-600nw-2522211451.jpg)
 
 
 ## Welcome!
